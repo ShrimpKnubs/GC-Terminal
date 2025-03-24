@@ -13,7 +13,7 @@
                       | |    ops did not yet shine.                             | |
                       | |                                                       | |
                       | |  3 And Kelp spake, saying, "Let there be ops,"        | |
-                      | |    and there were ops—but they were as an ass,        | |
+                      | |    and there were ops, but they were as an ass,       | |
                       | |    wrought with chaos and sqf erros, and the          | |
                       | |    servers did tremble.                               | |
                       | |                                                       | |
